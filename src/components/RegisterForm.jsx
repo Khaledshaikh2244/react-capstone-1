@@ -32,6 +32,7 @@ const RegisterForm = () => {
        onChange={handleChange}/>
 
        <button>Sign Up</button>
+       <p>RegistrationPage</p>
     </div>
   )
 }
